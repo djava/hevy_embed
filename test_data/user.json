@@ -1,0 +1,97 @@
+{
+    "private_profile": false,
+    "username": "djavaisadog",
+    "verified": false,
+    "profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GjaggSIDqcovJgYpF6YQQ5S1e1WX0dJFXPQNRwYTw=s96-c",
+    "workout_count": 36,
+    "follower_count": 0,
+    "following_count": 0,
+    "routines": [
+        {
+            "id": "750f7ab2-c7d9-4d44-b956-4950be36989a",
+            "title": "\ud83d\udcaa Home Upper",
+            "short_id": "XvCR9wujp54",
+            "folder_id": null
+        },
+        {
+            "id": "89b6ed6a-dbbb-48fe-8ad4-d2308c757425",
+            "title": "3. Legs and Abs",
+            "short_id": "EV7eSbND6vM",
+            "folder_id": null
+        },
+        {
+            "id": "d28a198d-ce8a-4e56-815c-2106646c6853",
+            "title": "2. Back and Biceps",
+            "short_id": "L6AX6v2irwl",
+            "folder_id": null
+        },
+        {
+            "id": "606bd320-ac13-4d77-93b7-b8a987d9ce71",
+            "title": "1. Chest Shoulders and Triceps",
+            "short_id": "evlYqqxh3xZ",
+            "folder_id": null
+        }
+    ],
+    "weekly_workout_durations": [
+        {
+            "week_start_date": "2022-10-30T00:00:00+00:00",
+            "week_end_date": "2022-11-06T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2022-11-06T00:00:00+00:00",
+            "week_end_date": "2022-11-13T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2022-11-13T00:00:00+00:00",
+            "week_end_date": "2022-11-20T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2022-11-20T00:00:00+00:00",
+            "week_end_date": "2022-11-27T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2022-11-27T00:00:00+00:00",
+            "week_end_date": "2022-12-04T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2022-12-04T00:00:00+00:00",
+            "week_end_date": "2022-12-11T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2022-12-11T00:00:00+00:00",
+            "week_end_date": "2022-12-18T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2022-12-18T00:00:00+00:00",
+            "week_end_date": "2022-12-25T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2022-12-25T00:00:00+00:00",
+            "week_end_date": "2023-01-01T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2023-01-01T00:00:00+00:00",
+            "week_end_date": "2023-01-08T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2023-01-08T00:00:00+00:00",
+            "week_end_date": "2023-01-15T00:00:00+00:00",
+            "total_seconds": 0
+        },
+        {
+            "week_start_date": "2023-01-15T00:00:00+00:00",
+            "week_end_date": "2023-01-22T00:00:00+00:00",
+            "total_seconds": 3216
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "type": "public",
+    "id": "885bd177-ddae-44a2-89e5-7d6fc713617f",
+    "short_id": "DT4zqSrQML8",
+    "name": "Morning workout \u2600\ufe0f",
+    "create_at": "2023-01-16T20:23:06.357Z",
+    "start_time": 1673897353,
+    "end_time": 1673900569,
+    "username": "djavaisadog",
+    "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjaggSIDqcovJgYpF6YQQ5S1e1WX0dJFXPQNRwYTw=s96-c",
+    "preview_image": null,
+    "is_private": false,
+    "exercises": [
+        {
+            "id": "2d1312a9-cc72-4a71-92d1-02c26ba92d55",
+            "title": "Bench Press (Barbell)",
+            "es_title": "Press de Banca (Barra)",
+            "de_title": "Bankdr\u00fccken (Langhantel)",
+            "fr_title": "D\u00e9velopp\u00e9 Couch\u00e9 (Barre)",
+            "it_title": "Panca Piana (Bilanciere)",
+            "pt_title": "Supino",
+            "superset_id": null,
+            "rest_seconds": 0,
+            "notes": "",
+            "exercise_template_id": "79D0BB3A",
+            "url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00251201-Barbell-Bench-Press_Chest.mp4",
+            "exercise_type": "weight_reps",
+            "equipment_category": "barbell",
+            "media_type": "video",
+            "custom_exercise_image_url": null,
+            "custom_exercise_image_thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00251201-Barbell-Bench-Press_Chest_thumbnail@3x.jpg",
+            "thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00251201-Barbell-Bench-Press_Chest_thumbnail@3x.jpg",
+            "muscle_group": "chest",
+            "other_muscles": [
+                "triceps",
+                "shoulders"
+            ],
+            "priority": 10,
+            "sets": [
+                {
+                    "id": 234220871,
+                    "index": 0,
+                    "indicator": "warmup",
+                    "weight_kg": 20.41168092460379,
+                    "reps": 8,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220872,
+                    "index": 1,
+                    "indicator": "normal",
+                    "weight_kg": 29.483539113316585,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220873,
+                    "index": 2,
+                    "indicator": "normal",
+                    "weight_kg": 34.01946820767298,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220874,
+                    "index": 3,
+                    "indicator": "normal",
+                    "weight_kg": 38.55539730202938,
+                    "reps": 9,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220875,
+                    "index": 4,
+                    "indicator": "normal",
+                    "weight_kg": 38.55539730202938,
+                    "reps": 7,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220876,
+                    "index": 5,
+                    "indicator": "normal",
+                    "weight_kg": 38.55539730202938,
+                    "reps": 6,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                }
+            ]
+        },
+        {
+            "id": "e2648cb5-da19-476e-93cb-f1eda8855267",
+            "title": "Squat (Barbell)",
+            "es_title": "Sentadilla (Barra)",
+            "de_title": "Squat (Langhantel)",
+            "fr_title": "Squat (Barre)",
+            "it_title": "Squat (Bilanciere)",
+            "pt_title": "Agachamento (Barra)",
+            "superset_id": null,
+            "rest_seconds": 0,
+            "notes": "",
+            "exercise_template_id": "D04AC939",
+            "url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00431201-Barbell-Full-Squat_Thighs.mp4",
+            "exercise_type": "weight_reps",
+            "equipment_category": "barbell",
+            "media_type": "video",
+            "custom_exercise_image_url": null,
+            "custom_exercise_image_thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00431201-Barbell-Full-Squat_Thighs_thumbnail@3x.jpg",
+            "thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00431201-Barbell-Full-Squat_Thighs_thumbnail@3x.jpg",
+            "muscle_group": "quadriceps",
+            "other_muscles": [
+                "hamstrings",
+                "glutes"
+            ],
+            "priority": 10,
+            "sets": [
+                {
+                    "id": 234220877,
+                    "index": 0,
+                    "indicator": "normal",
+                    "weight_kg": 43.091326396385774,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220878,
+                    "index": 1,
+                    "indicator": "normal",
+                    "weight_kg": 52.16318458509857,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220879,
+                    "index": 2,
+                    "indicator": "normal",
+                    "weight_kg": 61.235042773811365,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220880,
+                    "index": 3,
+                    "indicator": "normal",
+                    "weight_kg": 61.235042773811365,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220881,
+                    "index": 4,
+                    "indicator": "normal",
+                    "weight_kg": 61.235042773811365,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                }
+            ]
+        },
+        {
+            "id": "ac93b9d0-d4ff-4159-ae48-54941ce2d396",
+            "title": "Deadlift (Barbell)",
+            "es_title": "Peso Muerto (Barra)",
+            "de_title": "Kreuzheben (Langhantel)",
+            "fr_title": "Soulev\u00e9 de Terre (Barre)",
+            "it_title": "Stacco da Terra (Bilanciere)",
+            "pt_title": "Peso Morto (Barra)",
+            "superset_id": null,
+            "rest_seconds": 0,
+            "notes": "",
+            "exercise_template_id": "C6272009",
+            "url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00321201-Barbell-Deadlift_Hips-FIX.mp4",
+            "exercise_type": "weight_reps",
+            "equipment_category": "barbell",
+            "media_type": "video",
+            "custom_exercise_image_url": null,
+            "custom_exercise_image_thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00321201-Barbell-Deadlift_Hips-FIX_thumbnail@3x.jpg",
+            "thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00321201-Barbell-Deadlift_Hips-FIX_thumbnail@3x.jpg",
+            "muscle_group": "hamstrings",
+            "other_muscles": [
+                "quadriceps",
+                "lower_back",
+                "glutes"
+            ],
+            "priority": 10,
+            "sets": [
+                {
+                    "id": 234220882,
+                    "index": 0,
+                    "indicator": "normal",
+                    "weight_kg": 52.16318458509857,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220883,
+                    "index": 1,
+                    "indicator": "normal",
+                    "weight_kg": 61.235042773811365,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220884,
+                    "index": 2,
+                    "indicator": "normal",
+                    "weight_kg": 61.235042773811365,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220885,
+                    "index": 3,
+                    "indicator": "normal",
+                    "weight_kg": 65.77097186816776,
+                    "reps": 10,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 234220886,
+                    "index": 4,
+                    "indicator": "normal",
+                    "weight_kg": 65.77097186816776,
+                    "reps": 5,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                }
+            ]
+        }
+    ],
+    "weight_unit": "lbs",
+    "distance_unit": "kilometers"
+}

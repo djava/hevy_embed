@@ -1,0 +1,114 @@
+{
+    "type": "public",
+    "id": "d607540f-3000-4774-b7e2-2d4bbe4337e2",
+    "short_id": "eNPmyCIsGVt",
+    "name": "Evening workout 🏋️",
+    "create_at": "2022-01-18T03:27:02.209Z",
+    "start_time": 1642472378,
+    "end_time": 1642476418,
+    "username": "djavaisadog",
+    "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjaggSIDqcovJgYpF6YQQ5S1e1WX0dJFXPQNRwYTw=s96-c",
+    "preview_image": null,
+    "is_private": false,
+    "exercises": [
+        {
+            "id": "550665ad-235b-4d43-bb7e-68a3f8996568",
+            "title": "Push Up",
+            "es_title": "Flexiones",
+            "de_title": "Liegestütz",
+            "fr_title": "Pompes",
+            "it_title": "Piegamenti",
+            "pt_title": "Flexão",
+            "superset_id": 0,
+            "rest_seconds": 0,
+            "notes": "",
+            "exercise_template_id": "392887AA",
+            "url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/06621201-Push-up-m_Chest.mp4",
+            "exercise_type": "reps_only",
+            "equipment_category": "none",
+            "media_type": "video",
+            "custom_exercise_image_url": null,
+            "custom_exercise_image_thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/06621201-Push-up-m_Chest_thumbnail@3x.jpg",
+            "thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/06621201-Push-up-m_Chest_thumbnail@3x.jpg",
+            "muscle_group": "chest",
+            "other_muscles": [
+                "triceps",
+                "shoulders"
+            ],
+            "priority": 10,
+            "sets": [
+                {
+                    "id": 47666426,
+                    "index": 0,
+                    "indicator": "normal",
+                    "weight_kg": null,
+                    "reps": 25,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 47666427,
+                    "index": 1,
+                    "indicator": "normal",
+                    "weight_kg": null,
+                    "reps": 25,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                }
+            ]
+        },
+        {
+            "id": "028f6b2e-572f-46cd-a7b3-1f65099ccb6a",
+            "title": "Crunch",
+            "es_title": "Abdominal Corto",
+            "de_title": "Crunch",
+            "fr_title": "Crunch",
+            "it_title": "Crunch",
+            "pt_title": "Abdominal",
+            "superset_id": 0,
+            "rest_seconds": 0,
+            "notes": "",
+            "exercise_template_id": "DCF3B31B",
+            "url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/02741201-Crunch-Floor-m_waist.mp4",
+            "exercise_type": "reps_only",
+            "equipment_category": "none",
+            "media_type": "video",
+            "custom_exercise_image_url": null,
+            "custom_exercise_image_thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/02741201-Crunch-Floor-m_waist_thumbnail@3x.jpg",
+            "thumbnail_url": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/02741201-Crunch-Floor-m_waist_thumbnail@3x.jpg",
+            "muscle_group": "abdominals",
+            "other_muscles": [],
+            "priority": 10,
+            "sets": [
+                {
+                    "id": 47666428,
+                    "index": 0,
+                    "indicator": "normal",
+                    "weight_kg": null,
+                    "reps": 25,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                },
+                {
+                    "id": 47666429,
+                    "index": 1,
+                    "indicator": "normal",
+                    "weight_kg": null,
+                    "reps": 25,
+                    "distance_meters": null,
+                    "duration_seconds": null,
+                    "rpe": null,
+                    "personalRecords": []
+                }
+            ]
+        }
+    ],
+    "weight_unit": "lbs",
+    "distance_unit": "kilometers"
+}
